@@ -18,32 +18,32 @@ comunicazione e sistemi di gestione e informatici**.
 
 | # | Materia | Quesiti stimati | Schema |
 |---|---------|-----------------|--------|
-| 0 | Struttura della prova e strategia | — | [00-prova-e-strategia.md](materie/00-prova-e-strategia.md) |
-| 1 | Project & Program management | ~5 | [01-project-management.md](materie/01-project-management.md) |
-| 2 | Comunicazione pubblica e istituzionale | ~5 | [02-comunicazione-pubblica.md](materie/02-comunicazione-pubblica.md) |
-| 3 | Gestione dei sistemi informativi | ~5 | [03-sistemi-informativi.md](materie/03-sistemi-informativi.md) |
-| 4 | Digital marketing e social media | ~5 | [04-digital-marketing.md](materie/04-digital-marketing.md) |
-| 5 | Intelligenza artificiale | ~5 | [05-intelligenza-artificiale.md](materie/05-intelligenza-artificiale.md) |
-| 6 | Appalti pubblici (D.lgs. 36/2023) | ~5 | [06-appalti-pubblici.md](materie/06-appalti-pubblici.md) |
-| 7 | Privacy, sicurezza dei dati e cybersicurezza | ~5 | [07-privacy-e-cybersicurezza.md](materie/07-privacy-e-cybersicurezza.md) |
-| 8 | PNRR e misure sulla digitalizzazione | ~5 | [08-pnrr-digitale.md](materie/08-pnrr-digitale.md) |
-| 9 | Ordinamento della PCM | ~5 | [09-ordinamento-pcm.md](materie/09-ordinamento-pcm.md) |
-| 10 | Situazionali + inglese B1 | 20 | [10-situazionali-e-inglese.md](materie/10-situazionali-e-inglese.md) |
+| 0 | Struttura della prova e strategia | — | [00-prova-e-strategia.md](00-prova-e-strategia.md) |
+| 1 | Project & Program management | ~5 | [01-project-management.md](01-project-management.md) |
+| 2 | Comunicazione pubblica e istituzionale | ~5 | [02-comunicazione-pubblica.md](02-comunicazione-pubblica.md) |
+| 3 | Gestione dei sistemi informativi | ~5 | [03-sistemi-informativi.md](03-sistemi-informativi.md) |
+| 4 | Digital marketing e social media | ~5 | [04-digital-marketing.md](04-digital-marketing.md) |
+| 5 | Intelligenza artificiale | ~5 | [05-intelligenza-artificiale.md](05-intelligenza-artificiale.md) |
+| 6 | Appalti pubblici (D.lgs. 36/2023) | ~5 | [06-appalti-pubblici.md](06-appalti-pubblici.md) |
+| 7 | Privacy, sicurezza dei dati e cybersicurezza | ~5 | [07-privacy-e-cybersicurezza.md](07-privacy-e-cybersicurezza.md) |
+| 8 | PNRR e misure sulla digitalizzazione | ~5 | [08-pnrr-digitale.md](08-pnrr-digitale.md) |
+| 9 | Ordinamento della PCM | ~5 | [09-ordinamento-pcm.md](09-ordinamento-pcm.md) |
+| 10 | Situazionali + inglese B1 | 20 | [10-situazionali-e-inglese.md](10-situazionali-e-inglese.md) |
 
 > La ripartizione dei 40 quesiti fra le 9 materie **non è dichiarata nel bando**: quella in
 > tabella è un'ipotesi di lavoro (distribuzione uniforme) utile solo a bilanciare le ore di studio.
 
 ## Cheatsheet trasversali
 
-- [Numeri, soglie e termini](cheatsheet/numeri-e-soglie.md) — il file da ripassare il giorno prima
-- [Formule](cheatsheet/formule.md) — EVM, PERT, metriche, engagement rate
-- [Acronimi e sigle](cheatsheet/acronimi.md) — glossario A-Z
-- [Norme chiave in ordine cronologico](cheatsheet/norme-chiave.md)
+- [Numeri, soglie e termini](cheat-numeri-e-soglie.md) — il file da ripassare il giorno prima
+- [Formule](cheat-formule.md) — EVM, PERT, metriche, engagement rate
+- [Acronimi e sigle](cheat-acronimi.md) — glossario A-Z
+- [Norme chiave in ordine cronologico](cheat-norme-chiave.md)
 
 ## Strumenti
 
 - [Piano di studio 8 settimane](piano-di-studio.md) — con checkbox di avanzamento
-- [flashcards/numeri.csv](flashcards/numeri.csv) — importabile in Anki (separatore `;`)
+- [flashcards-numeri.csv](flashcards-numeri.csv) — importabile in Anki (separatore `;`)
 
 ---
 

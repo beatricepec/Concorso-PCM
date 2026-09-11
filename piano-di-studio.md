@@ -9,7 +9,7 @@ Adatta la scala, non la struttura: la struttura serve a garantire **due passaggi
 
 1. **Prima passata**: leggi lo schema della materia + le fonti primarie sui punti a maggiore densità normativa. Annota nel file ciò che manca.
 2. **Seconda passata**: solo lo schema + autoverifica a `<details>` chiuse.
-3. **Ripasso**: solo [numeri-e-soglie.md](cheatsheet/numeri-e-soglie.md), [formule.md](cheatsheet/formule.md) e le tue issue aperte.
+3. **Ripasso**: solo [numeri-e-soglie.md](cheat-numeri-e-soglie.md), [formule.md](cheat-formule.md) e le tue issue aperte.
 4. **30 minuti di inglese ogni giorno**, sempre, indipendentemente dalla materia del giorno.
 5. **Un simulatore a settimana** dalla settimana 3, cronometrato a 80 minuti.
 6. Ogni errore → **una issue su GitHub** con label della materia. È il tuo quaderno degli errori.
@@ -17,50 +17,50 @@ Adatta la scala, non la struttura: la struttura serve a garantire **due passaggi
 ## Calendario
 
 ### Settimana 1 — Impianto
-- [ ] [00 · Prova e strategia](materie/00-prova-e-strategia.md)
-- [ ] [09 · Ordinamento PCM](materie/09-ordinamento-pcm.md) — *si chiude in fretta e frutta molto*
-- [ ] [03 · Sistemi informativi](materie/03-sistemi-informativi.md) — parte 1: concetti, ITIL, ciclo di vita
+- [ ] [00 · Prova e strategia](00-prova-e-strategia.md)
+- [ ] [09 · Ordinamento PCM](09-ordinamento-pcm.md) — *si chiude in fretta e frutta molto*
+- [ ] [03 · Sistemi informativi](03-sistemi-informativi.md) — parte 1: concetti, ITIL, ciclo di vita
 - [ ] Inglese: present perfect vs past simple
 
 ### Settimana 2 — CAD e piattaforme
-- [ ] [03 · Sistemi informativi](materie/03-sistemi-informativi.md) — parte 2: dati, cloud, piattaforme, Piano Triennale
+- [ ] [03 · Sistemi informativi](03-sistemi-informativi.md) — parte 2: dati, cloud, piattaforme, Piano Triennale
 - [ ] Lettura diretta degli articoli CAD elencati nelle fonti
-- [ ] [02 · Comunicazione pubblica](materie/02-comunicazione-pubblica.md) — parte 1: L. 150/2000, trasparenza, accesso
+- [ ] [02 · Comunicazione pubblica](02-comunicazione-pubblica.md) — parte 1: L. 150/2000, trasparenza, accesso
 - [ ] Inglese: condizionali e passivo
 
 ### Settimana 3 — Comunicazione e project management
-- [ ] [02 · Comunicazione pubblica](materie/02-comunicazione-pubblica.md) — parte 2: accessibilità, strumenti, crisi
-- [ ] [01 · Project management](materie/01-project-management.md) — standard e tecniche
+- [ ] [02 · Comunicazione pubblica](02-comunicazione-pubblica.md) — parte 2: accessibilità, strumenti, crisi
+- [ ] [01 · Project management](01-project-management.md) — standard e tecniche
 - [ ] **EVM e PERT: esercizi numerici finché non escono automatici**
 - [ ] 🧪 Prima simulazione completa (80 min)
 
 ### Settimana 4 — Appalti
-- [ ] [06 · Appalti pubblici](materie/06-appalti-pubblici.md) — principi e digitalizzazione (artt. 1-36)
-- [ ] [06 · Appalti pubblici](materie/06-appalti-pubblici.md) — affidamento, OEPV, esecuzione, strumenti ICT
+- [ ] [06 · Appalti pubblici](06-appalti-pubblici.md) — principi e digitalizzazione (artt. 1-36)
+- [ ] [06 · Appalti pubblici](06-appalti-pubblici.md) — affidamento, OEPV, esecuzione, strumenti ICT
 - [ ] Verifica delle **soglie europee vigenti**
 - [ ] 🧪 Simulazione
 
 ### Settimana 5 — Privacy e cybersicurezza
-- [ ] [07 · Privacy e cybersicurezza](materie/07-privacy-e-cybersicurezza.md) — GDPR e Codice privacy
-- [ ] [07 · Privacy e cybersicurezza](materie/07-privacy-e-cybersicurezza.md) — sicurezza tecnica, ACN, NIS2, L. 90/2024
+- [ ] [07 · Privacy e cybersicurezza](07-privacy-e-cybersicurezza.md) — GDPR e Codice privacy
+- [ ] [07 · Privacy e cybersicurezza](07-privacy-e-cybersicurezza.md) — sicurezza tecnica, ACN, NIS2, L. 90/2024
 - [ ] **Tabella dei termini di notifica a memoria (6/24/72 ore, 1 mese)**
 - [ ] 🧪 Simulazione
 
 ### Settimana 6 — IA e PNRR
-- [ ] [05 · Intelligenza artificiale](materie/05-intelligenza-artificiale.md) — concetti tecnici e AI Act
-- [ ] [05 · Intelligenza artificiale](materie/05-intelligenza-artificiale.md) — L. 132/2025 e IA nella PA
-- [ ] [08 · PNRR](materie/08-pnrr-digitale.md) — quadro, governance, M1C1
+- [ ] [05 · Intelligenza artificiale](05-intelligenza-artificiale.md) — concetti tecnici e AI Act
+- [ ] [05 · Intelligenza artificiale](05-intelligenza-artificiale.md) — L. 132/2025 e IA nella PA
+- [ ] [08 · PNRR](08-pnrr-digitale.md) — quadro, governance, M1C1
 - [ ] 🧪 Simulazione
 
 ### Settimana 7 — Marketing, situazionali, seconda passata
-- [ ] [04 · Digital marketing](materie/04-digital-marketing.md)
-- [ ] [10 · Situazionali e inglese](materie/10-situazionali-e-inglese.md) — batterie di situazionali
+- [ ] [04 · Digital marketing](04-digital-marketing.md)
+- [ ] [10 · Situazionali e inglese](10-situazionali-e-inglese.md) — batterie di situazionali
 - [ ] Seconda passata su **03, 06, 07** (le tre materie più dense)
 - [ ] 🧪 Due simulazioni
 
 ### Settimana 8 — Ripasso e verifica normativa
 - [ ] Seconda passata su **01, 02, 05, 08, 09**
-- [ ] Rilettura integrale di [numeri-e-soglie.md](cheatsheet/numeri-e-soglie.md) e [formule.md](cheatsheet/formule.md)
+- [ ] Rilettura integrale di [numeri-e-soglie.md](cheat-numeri-e-soglie.md) e [formule.md](cheat-formule.md)
 - [ ] Tutte le autoverifiche a `<details>` chiuse, in blocco
 - [ ] Rilettura di **tutte le issue aperte** (quaderno degli errori)
 - [ ] ⚠️ **Verifica normativa finale** — 1 ora:
